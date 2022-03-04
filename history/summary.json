@@ -7,18 +7,38 @@
     "status": "up",
     "uptime": "99.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.76%",
-    "time": 1680,
-    "timeDay": 319,
+    "time": 1665,
+    "timeDay": 262,
     "timeWeek": 240,
-    "timeMonth": 1798,
-    "timeYear": 1680,
+    "timeMonth": 1750,
+    "timeYear": 1665,
     "dailyMinutesDown": {
       "2022-02-25": 19,
       "2022-01-07": 258,
       "2021-12-16": 9
+    }
+  },
+  {
+    "name": "Docs",
+    "url": "https://docs.ejenda.org",
+    "icon": "https://favicons.githubusercontent.com/docs.ejenda.org",
+    "slug": "docs",
+    "status": "down",
+    "uptime": "8.27%",
+    "uptimeDay": "8.27%",
+    "uptimeWeek": "8.27%",
+    "uptimeMonth": "8.27%",
+    "uptimeYear": "8.27%",
+    "time": 242,
+    "timeDay": 242,
+    "timeWeek": 242,
+    "timeMonth": 242,
+    "timeYear": 242,
+    "dailyMinutesDown": {
+      "2022-03-04": 0
     }
   }
 ]
