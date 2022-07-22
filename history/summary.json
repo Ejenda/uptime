@@ -4,7 +4,7 @@
     "url": "https://ejenda.org",
     "icon": "https://favicons.githubusercontent.com/ejenda.org",
     "slug": "ejenda",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 324,
     "timeYear": 903,
     "dailyMinutesDown": {
+      "2022-07-22": 0,
       "2022-07-01": 29,
       "2022-06-30": 57,
       "2022-06-29": 35,
@@ -46,7 +47,7 @@
     "timeMonth": 222,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2022-07-22": 51,
+      "2022-07-22": 1151,
       "2022-07-21": 1440,
       "2022-07-20": 1440,
       "2022-07-19": 1440,
