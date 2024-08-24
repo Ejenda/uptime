@@ -1,7 +1,7 @@
 url: https://ejenda.org
-status: up
-code: 200
-responseTime: 370
-lastUpdated: 2024-08-24T02:51:03.117Z
+status: down
+code: 502
+responseTime: 255
+lastUpdated: 2024-08-24T07:24:09.797Z
 startTime: 2021-12-10T17:44:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
