@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ejenda.org.ico",
     "slug": "ejenda",
     "status": "up",
-    "uptime": "95.96%",
+    "uptime": "95.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "51.79%",
+    "uptimeMonth": "55.08%",
     "uptimeYear": "93.32%",
     "time": 383,
-    "timeDay": 327,
-    "timeWeek": 441,
-    "timeMonth": 465,
-    "timeYear": 400,
+    "timeDay": 294,
+    "timeWeek": 431,
+    "timeMonth": 466,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2024-11-09": 1008,
       "2024-11-08": 1440,
@@ -64,12 +64,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 222,
-    "timeDay": 287,
-    "timeWeek": 254,
-    "timeMonth": 237,
+    "timeDay": 258,
+    "timeWeek": 257,
+    "timeMonth": 239,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2024-11-26": 50,
+      "2024-11-27": 51,
+      "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
@@ -432,8 +433,7 @@
       "2023-12-02": 1440,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
-      "2023-11-29": 1440,
-      "2023-11-28": 1440
+      "2023-11-29": 1440
     }
   }
 ]
