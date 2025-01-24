@@ -6,14 +6,14 @@
     "slug": "ejenda",
     "status": "up",
     "uptime": "95.07%",
-    "uptimeDay": "98.96%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "63.45%",
+    "uptimeMonth": "66.73%",
     "uptimeYear": "89.89%",
     "time": 383,
-    "timeDay": 357,
-    "timeWeek": 391,
-    "timeMonth": 342,
+    "timeDay": 339,
+    "timeWeek": 399,
+    "timeMonth": 346,
     "timeYear": 399,
     "dailyMinutesDown": {
       "2025-01-22": 15,
@@ -83,12 +83,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 227,
-    "timeDay": 207,
+    "timeDay": 263,
     "timeWeek": 225,
-    "timeMonth": 234,
-    "timeYear": 234,
+    "timeMonth": 235,
+    "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-01-23": 46,
+      "2025-01-24": 46,
+      "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
@@ -451,8 +452,7 @@
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
-      "2024-01-26": 1440,
-      "2024-01-25": 1440
+      "2024-01-26": 1440
     }
   }
 ]
